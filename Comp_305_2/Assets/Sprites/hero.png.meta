@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 80d497e755983c64e8af4aec7b26835e
-timeCreated: 1445899720
+guid: 15b77682ca00d4c48b95fd3fd0a73627
+timeCreated: 1445912137
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -24,6 +24,16 @@ TextureImporter:
     21300034: hero_17
     21300036: hero_18
     21300038: hero_19
+    21300040: hero_20
+    21300042: hero_21
+    21300044: hero_22
+    21300046: hero_23
+    21300048: hero_24
+    21300050: hero_25
+    21300052: hero_26
+    21300054: hero_27
+    21300056: hero_28
+    21300058: hero_29
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -73,200 +83,300 @@ TextureImporter:
     - name: hero_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 659
-        width: 181
-        height: 134
+        x: 2
+        y: 454
+        width: 55
+        height: 55
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_1
       rect:
         serializedVersion: 2
-        x: 200
-        y: 640
-        width: 179
-        height: 138
+        x: 61
+        y: 454
+        width: 56
+        height: 55
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_2
       rect:
         serializedVersion: 2
-        x: 393
-        y: 658
-        width: 177
-        height: 135
+        x: 121
+        y: 451
+        width: 56
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_3
       rect:
         serializedVersion: 2
-        x: 583
-        y: 640
-        width: 182
-        height: 138
+        x: 181
+        y: 451
+        width: 56
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_4
       rect:
         serializedVersion: 2
-        x: 5
-        y: 495
-        width: 181
-        height: 134
+        x: 2
+        y: 388
+        width: 55
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_5
       rect:
         serializedVersion: 2
-        x: 200
-        y: 480
-        width: 179
-        height: 138
+        x: 62
+        y: 388
+        width: 57
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_6
       rect:
         serializedVersion: 2
-        x: 393
-        y: 489
-        width: 177
-        height: 140
+        x: 122
+        y: 389
+        width: 55
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_7
       rect:
         serializedVersion: 2
-        x: 583
-        y: 480
-        width: 182
-        height: 139
+        x: 181
+        y: 390
+        width: 56
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_8
       rect:
         serializedVersion: 2
-        x: 5
+        x: 2
         y: 327
-        width: 181
-        height: 137
+        width: 55
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_9
       rect:
         serializedVersion: 2
-        x: 200
-        y: 323
-        width: 179
-        height: 139
+        x: 61
+        y: 326
+        width: 56
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_10
       rect:
         serializedVersion: 2
-        x: 393
-        y: 324
-        width: 177
-        height: 141
+        x: 121
+        y: 325
+        width: 56
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_11
       rect:
         serializedVersion: 2
-        x: 583
-        y: 323
-        width: 182
-        height: 141
+        x: 182
+        y: 325
+        width: 55
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_12
       rect:
         serializedVersion: 2
-        x: 5
-        y: 161
-        width: 181
-        height: 140
+        x: 1
+        y: 262
+        width: 56
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_13
       rect:
         serializedVersion: 2
-        x: 200
-        y: 165
-        width: 179
-        height: 143
+        x: 61
+        y: 262
+        width: 56
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_14
       rect:
         serializedVersion: 2
-        x: 393
-        y: 161
-        width: 177
-        height: 140
+        x: 122
+        y: 265
+        width: 55
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_15
       rect:
         serializedVersion: 2
-        x: 583
-        y: 170
-        width: 182
-        height: 138
+        x: 182
+        y: 265
+        width: 55
+        height: 55
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_16
       rect:
         serializedVersion: 2
-        x: 5
-        y: 0
-        width: 181
-        height: 140
+        x: 2
+        y: 202
+        width: 55
+        height: 55
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_17
       rect:
         serializedVersion: 2
-        x: 200
-        y: 12
-        width: 179
-        height: 138
+        x: 61
+        y: 199
+        width: 56
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_18
       rect:
         serializedVersion: 2
-        x: 393
-        y: 0
-        width: 177
-        height: 139
+        x: 122
+        y: 199
+        width: 55
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: hero_19
       rect:
         serializedVersion: 2
-        x: 583
-        y: 12
-        width: 182
-        height: 137
+        x: 181
+        y: 199
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 136
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 137
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_22
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 138
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_23
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 138
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 74
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_25
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 73
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 73
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_27
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 73
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_29
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 13
+        width: 55
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
